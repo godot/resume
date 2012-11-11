@@ -1,7 +1,7 @@
 Personal data:
 -------------
-* name: Dariusz Gorzęba
-* location: Warszaw, Poland
+* name: Dariusz Gorzeba
+* location: Warsaw, Poland
 * birth: 1980
 * occupation: software developer
 
