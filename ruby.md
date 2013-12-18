@@ -2,13 +2,16 @@ Personal data:
 -------------
 * name: Dariusz Gorzeba
 * location: Warsaw, Poland
-* birth: 1980
 * occupation: software developer
 
 Experience:
 -----------
+
+**[ElPassion](http://elpassion.com/)** November 2012-present
 
-**[Cubiware](http://cubiware.com/)** March 2011-present
+  ... WIP ...
+
+**[Cubiware](http://cubiware.com/)** March 2011- November 2012
 
   * Design and develop service-oriented, highly-scalable API for
     multiple platforms
